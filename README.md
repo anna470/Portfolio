@@ -2,6 +2,8 @@
 
 ## Welcome to Anna's Portfolio
 
+This Project was created as my first steps learning **SQL** at TechNative. I used hospital data to see where the revenue comes from, how it is balanced and how to improve numbers: 
+
 **Scaling Smart: Revenue and Performance Analysis**
 
 Which treatments bring in the most revenue, which treatments should we potentially focus on specialisation 
